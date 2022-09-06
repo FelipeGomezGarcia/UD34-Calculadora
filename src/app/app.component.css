@@ -2,16 +2,16 @@ body{
   background-color: aqua;
 }
 #inputs{
-  width: 20vw;
+  width: 15vw;
   height: inherit;
   background-color: beige;
 }
 #teclado1{
-  width: 20vw;
+  width: 15;
   height: inherit;
 }
 #teclado{
-  width: 15vw;
+  width: 10vw;
   height: inherit;
   background-color: grey;
 }
