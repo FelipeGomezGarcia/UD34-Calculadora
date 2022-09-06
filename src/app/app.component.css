@@ -1,6 +1,10 @@
 body{
   background-color: aqua;
 }
+#fondo{
+  height: 100vh;
+  background-color: aqua;
+}
 #inputs{
   width: 15vw;
   height: inherit;
