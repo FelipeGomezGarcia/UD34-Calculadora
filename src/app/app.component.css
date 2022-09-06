@@ -1,0 +1,22 @@
+body{
+  background-color: aqua;
+}
+#inputs{
+  width: 20vw;
+  height: inherit;
+  background-color: beige;
+}
+#teclado1{
+  width: 20vw;
+  height: inherit;
+}
+#teclado{
+  width: 15vw;
+  height: inherit;
+  background-color: grey;
+}
+#operadores{
+  width: 5vw;
+  height: inherit;
+  background-color: aquamarine;
+}
